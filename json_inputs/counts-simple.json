@@ -1,0 +1,40 @@
+[
+  {
+    "id": 2,
+    "locationCode": "A-001",
+    "completedCounts": [
+      {
+        "totalAmount": 8,
+        "contents": [
+          {
+            "barcode": "48195867349",
+            "amount": 3
+          },
+          {
+            "barcode": "31685751833",
+            "amount": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "locationCode": "A-002",
+    "completedCounts": [
+      {
+        "totalAmount": 19,
+        "contents": [
+          {
+            "barcode": "48195867349",
+            "amount": 9
+          },
+          {
+            "barcode": "42075749327",
+            "amount": 10
+          }
+        ]
+      }
+    ]
+  }
+]
